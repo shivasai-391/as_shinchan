@@ -22,7 +22,7 @@ robo()  <br/>
 
 
 ### Sample Program
-'''
+```
 import as_shinchan as s
 s.short()
 s.legs()
@@ -35,7 +35,7 @@ s.eyes()
 s.robo()
 s.ht()
 s.done()
-'''
+```
 
 
 ## For more info:
