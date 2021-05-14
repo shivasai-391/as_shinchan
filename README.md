@@ -4,6 +4,8 @@ Create a new file with any name you want!!
 
 then,
 
+**Ensure that turtle module is installed in your machine**
+
 first import this as_shinchan module
 
 then,
