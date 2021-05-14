@@ -4,23 +4,21 @@ Create a new file with any name you want!!
 
 then,
 
-first import this c_shinchan module
+first import this as_shinchan module
 
 then,
 
 use below functions to draw shinchan
 
-short()
-legs()
-shirt()
-head()
-hands()
-mouth()
-eyebrows()
-eyes()
-robo()
-ht()
-done()
+short() <br/>
+legs()  <br/>
+shirt() <br/>
+head()  <br/>
+hands() <br/>
+mouth() <br/>
+eyebrows()  <br/>
+eyes()  <br/>
+robo()  <br/>
 
 
 
